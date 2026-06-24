@@ -7,7 +7,7 @@ These pages exist so the app and the App Store can link to them; they contain no
 ## Documents
 
 - [Privacy Policy](https://github.com/lucasyan666/phily-legal/blob/main/private-policy.html)
-- [Terms of Use](https://github.com/lucasyan666/phily-legal/blob/main/terms-of-use.html)
+- [Terms of Use](https://lucasyan666.github.io/phily-legal/privacy-policy.html)
 
 ## Live site
 
