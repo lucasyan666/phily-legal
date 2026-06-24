@@ -6,8 +6,8 @@ These pages exist so the app and the App Store can link to them; they contain no
 
 ## Documents
 
-- [Privacy Policy](privacy-policy.html)
-- [Terms of Use](terms-of-use.html)
+- [Privacy Policy](https://github.com/lucasyan666/phily-legal/blob/main/private-policy.html)
+- [Terms of Use](https://github.com/lucasyan666/phily-legal/blob/main/terms-of-use.html)
 
 ## Live site
 
